@@ -1,2 +1,2 @@
-# spring
-spring,spring-boot example
+# minitwit-spring-boot
+spring-boot example
